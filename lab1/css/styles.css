@@ -1,0 +1,48 @@
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: moccasin;
+  font: 16px sans-serif;
+}
+body {
+  margin: 30px;
+  padding: 20px;
+  background-color: oldlace;
+  border: 16px solid chocolate;
+  color: saddlebrown;
+}
+img {
+  width: 100%;
+}
+h1 {
+  font-size: 8vmin;
+  font-color: brown;
+  font-family: sans-serif;
+}
+span {
+  font-weight: bold;
+}
+a {
+  color: brown;
+}
+.center {
+  text-align: center;
+}
+
+#ingredients {
+float: left;
+width: 50%;
+}
+#instructions {
+float: right;
+width: 50%;
+}
+#nutrition-information {
+clear: both;
+padding-top: 20px;
+}
